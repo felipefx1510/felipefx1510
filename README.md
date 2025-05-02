@@ -34,6 +34,11 @@
 
 </div>
 
+<div>
+  <p align="center">
+  <img alt="Contribuições da Cobrinha" src="./dist/github-contribution-grid-snake.svg" />
+  </p>
+</div>
 ---
 
 <div>
