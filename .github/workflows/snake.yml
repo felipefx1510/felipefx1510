@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -15,13 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-        - name: Generate snake animation
+      - name: Generate snake animation
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: felipefx1510
           outputs: dist/github-contribution-grid-snake.svg
-          
-          OUTPUT_PATH: dist/github-contribution-grid-snake.svg
+          # OUTPUT_PATH: dist/github-contribution-grid-snake.svg
           # Você pode adicionar ou modificar as cores aqui, se desejar
           # COLOR_HEAD: '#...'
           # COLOR_TAIL_1: '#...'
