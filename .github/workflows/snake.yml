@@ -15,10 +15,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+        - name: Generate snake animation
         uses: Platane/snk@v3.3.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github_user_name: felipefx1510
+          outputs: dist/github-contribution-grid-snake.svg
           
           OUTPUT_PATH: dist/github-contribution-grid-snake.svg
           # Você pode adicionar ou modificar as cores aqui, se desejar
@@ -31,6 +32,5 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          GITHUB_USER_NAME: ${{ github.repository_owner }} # Adicione esta linha com seu nome de usuário
           commit_message: "Atualiza a animação da cobrinha de contribuições"
           file_pattern: dist/github-contribution-grid-snake.svg
