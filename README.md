@@ -36,9 +36,7 @@
 
 ---
 
-<div>
-  ![snake animation](https://felipefx1510.github.io/felipefx1510/github-contribution-grid-snake2.svg)
-</div>
+![snake animation](https://felipefx1510.github.io/felipefx1510/github-contribution-grid-snake2.svg)
 
 <div>
     <img src="https://komarev.com/ghpvc/?username=felipefx1510&color=orange" />
