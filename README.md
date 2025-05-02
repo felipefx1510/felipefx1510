@@ -37,13 +37,11 @@
 ---
 
 <div>
-  <p align="center">
-  <img alt="Contribuições da Cobrinha" src="./dist/github-contribution-grid-snake.svg" />
-  </p>
+  ![snake animation](https://felipefx1510.github.io/felipefx1510/github-contribution-grid-snake2.svg)
 </div>
 
 <div>
-    ![snake animation](https://github.com/<felipefx1510>/<felipefx1510>/blob/output/github-contribution-grid-snake2.svg)
+    <img src="https://komarev.com/ghpvc/?username=felipefx1510&color=orange" />
 <div>                                                                                                             
     
 
