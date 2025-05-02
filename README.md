@@ -8,7 +8,11 @@
 ###
 
 <div style="display: inline-block">
-     
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -23,8 +27,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
   <img width="12" />
