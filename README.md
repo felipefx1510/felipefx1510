@@ -34,15 +34,16 @@
 
 </div>
 
+---
+
 <div>
   <p align="center">
   <img alt="Contribuições da Cobrinha" src="./dist/github-contribution-grid-snake.svg" />
   </p>
 </div>
----
 
 <div>
     <img src="https://komarev.com/ghpvc/?username=felipefx1510&color=orange" />
-</div>                                                                                                             
+<div>                                                                                                             
     
-</div>
+
