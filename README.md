@@ -12,6 +12,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo">
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
