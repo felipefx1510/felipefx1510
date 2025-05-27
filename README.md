@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
+  <img src="https://www.svgrepo.com/show/448245/oracle.svg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 
